@@ -5,7 +5,7 @@
 ### install
 
 ```bash
-npm install eic-fonts@<the-version-id> --save-dev
+npm install eic-fonts@<the-version-id> --save
 ```
 
 then require the Scss after other styles, the [webpack](https://webpack.github.io/) is needed to implement to require Scss in JSX.
